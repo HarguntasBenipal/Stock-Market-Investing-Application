@@ -9,7 +9,9 @@ Requirements:
 -finalStockMarket.jar (the frontend)
 
 
+
 How to run:
+
 Open stockMarketServer.exe and allow full firewall permissions if prompted. Download the server here (Google Drive will give you a message that it is dangerous for the computer, ignore that and download it anyway): https://drive.google.com/drive/folders/1aW3-vAzrrse72EbDhDheMdZMD77nBdsf?usp=sharing
 
 Start server from the GUI menu. This will automatically create user_data and stock_data database files in the directory. If deleted, simply relaunch the server to recreate them.
