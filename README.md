@@ -3,7 +3,9 @@
 Requirements:
 
 -Java(TM) SE Runtime Environment 17.0.5 (newer ones would probably work as well, haven’t tested though)
+
 -stockMarketServer.exe (the server)
+
 -finalStockMarket.jar (the frontend)
 
 
