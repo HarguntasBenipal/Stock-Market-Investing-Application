@@ -1,6 +1,6 @@
 # Stock-Market-Investing-Application
 
-*This project was done with the help of a friend (Robby Sodhi).
+*This project was done with the help of a friend (Robby-Sodhi).
 
 Requirements:
 
