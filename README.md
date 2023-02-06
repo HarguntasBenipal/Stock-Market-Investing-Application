@@ -1,5 +1,7 @@
 # Stock-Market-Investing-Application
 
+*This project was done with the help of a friend.
+
 Requirements:
 
 -Java(TM) SE Runtime Environment 17.0.5 (newer ones would probably work as well, haven’t tested though)
